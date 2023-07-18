@@ -12,4 +12,5 @@ Used **TypeScript** for better type management.
 
 ### Todo
 1.Score per Player
+
 2. Play with bot version (minmax algorithm).
